@@ -10,7 +10,7 @@ function App() {
       <Navbar dark color="primary">
         <div className="container">
           <NavbarBrand href="/">
-            Confusion
+            Confusion Change
           </NavbarBrand>
         </div>
       </Navbar>
